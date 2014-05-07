@@ -1,6 +1,6 @@
 # GitHub Flow
 
-GitHub Flow is a lightweight, branch-based workflow that supports teams and projects where deployments are made regularly. [This guide](http://guides.github.com/overviews/flow/) explains how and why GitHub Flow works.
+GitHub Flow is a lightweight, branch-based workflow that supports teams and projects where deployments are made regularly. [This guide](https://guides.github.com/introduction/flow/index.html) explains how and why GitHub Flow works.
 
 ## Create a branch
 
